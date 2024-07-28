@@ -1,0 +1,32 @@
+{
+    "animation": {
+      "duration": 2000,
+      "keyframes": [
+        {
+          "time": 0,
+          "emoji": "😖",
+          "color": "yellow",
+          "vomit": ""
+        },
+        {
+          "time": 500,
+          "emoji": "🤢",
+          "color": "yellow",
+          "vomit": "💦"
+        },
+        {
+          "time": 1000,
+          "emoji": "🤢",
+          "color": "green",
+          "vomit": "💦💦"
+        },
+        {
+          "time": 1500,
+          "emoji": "😖",
+          "color": "green",
+          "vomit": ""
+        }
+      ]
+    }
+  }
+  
